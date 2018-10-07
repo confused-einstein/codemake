@@ -1,0 +1,10 @@
+shopping list
+============
+
+
+apples
+mangoes
+banana
+kiwi
+strawberry
+blueberry
