@@ -10,3 +10,6 @@ strawberry
 blueberry
 cherry 
 litchi
+lays 
+peanut butter
+eggs
