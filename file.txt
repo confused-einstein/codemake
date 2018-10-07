@@ -8,3 +8,5 @@ banana
 kiwi
 strawberry
 blueberry
+cherry 
+litchi
